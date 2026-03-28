@@ -1,23 +1,21 @@
 
-# Exp 4 Experimental verification of frequency response of Analog fiber optic link(660nm)
----
+# Exp 4 Experimental verification of frequency response of Analog fiber optic link
+# Fiber Optic Link Analysis (660nm)
 
 ## AIM
----
 To analyze the relationship between input and received signal of a 660nm fiber optic cable using analog and digital link.
 
+---
 
 ## EQUIPMENTS REQUIRED
----
 -	Link-B Kit with power supply.
 -	Patch chords.
 -	20MHz Dual Channel Oscilloscope.
 -	1 MHz Function Generator.
 -	1 Meter Fiber Cable.
-
+---
 
 ## THEORY
----
 Fiber optic links can be used for transmission of digital as well as analog signals. Basically a fiber optic link contains three main elements, a transmitter, an optical fiber and a receiver. The transmitter module takes the input signal in electrical form and then transforms it into optical (light) energy containing the same information. The optical fiber is the medium which takes the energy to the receiver. At the receiver light is converted back into electrical form with the same pattern as originally fed to the transmitter.
 
 TRANSMITTER:
@@ -30,10 +28,10 @@ current flows through its emitter generating the voltage across the resistance c
 
 
 
-
+---
 
 ## PROCEDURE
----
+
 -	Refer to the block diagram & carry out the following connections and settings.
 -	Connect the power supply with proper polarity to the kit link-B and switch it on.
 -	Keep all Switch Faults in OFF position.
@@ -66,30 +64,33 @@ current flows through its emitter generating the voltage across the resistance c
 <img width="721" height="292" alt="image" src="https://github.com/user-attachments/assets/599d4fcc-b1e2-45fb-a98d-5f833cade038" />
 
 
+---
 
 ## BLOCK DIAGRAM
+
+<img width="984" height="583" alt="image" src="https://github.com/user-attachments/assets/744315d1-5968-43f9-a57a-a7dbb8ec916a" />
+
 ---
-<img width="931" height="541" alt="image" src="https://github.com/user-attachments/assets/82873f57-1ff7-43ef-a048-16ef213f35e9" />
 
-
-
-
-
-## TABULATION 
----
+## TABULATION  
 **Transmission through Analog Link**
 
-<img width="1366" height="1158" alt="image" src="https://github.com/user-attachments/assets/cdc0d49f-5207-43f2-9e68-5c382b2f267d" />
+<img width="1018" height="1280" alt="image" src="https://github.com/user-attachments/assets/f4df0d77-2901-4de0-9c7e-0e28670cf3c9" />
 
-## MODEL GRAPH 
 ---
-<img width="905" height="431" alt="image" src="https://github.com/user-attachments/assets/1db08310-82c1-49e4-bfea-eb52b35c9800" />
+
+## MODEL GRAPH
+
+<img width="540" height="276" alt="image" src="https://github.com/user-attachments/assets/72d5fff3-3e51-44ea-9590-f5924831b880" />
+
+---
 
 ## GRAPH
----
 
-<img width="1600" height="1249" alt="image" src="https://github.com/user-attachments/assets/78b9a583-c61b-49d8-b411-c1c5300961ee" />
+<img width="1600" height="1266" alt="image" src="https://github.com/user-attachments/assets/fd64a39b-9948-45e7-82b5-c3603d943686" />
+
+---
 
 ## RESULT
----
-The frequency response of the 660nm analog fiber optic link was successfully verified, showing a 3dB cutoff frequency beyond which the signal attenuation increases significantly.
+
+Thus the relationship between input and received signal of a 660nm fiber optic cable using analog and digital link is verified sucessfully.
